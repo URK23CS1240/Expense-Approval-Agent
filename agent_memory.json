@@ -1,0 +1,10 @@
+[
+    {
+        "employee": "A",
+        "category": "a",
+        "amount": 125000.0,
+        "decision": "REJECTED",
+        "reason": "Policy or budget violation detected",
+        "timestamp": "2026-02-07 22:12:36"
+    }
+]
