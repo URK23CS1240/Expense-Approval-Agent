@@ -1,0 +1,82 @@
+[
+    {
+        "employee": "Arun",
+        "category": "Food",
+        "amount": 1500.0,
+        "decision": "PENDING",
+        "explanation": "The expense was PENDING because New employee \u2013 requires managerial review.",
+        "timestamp": "2026-02-08 21:12:08"
+    },
+    {
+        "employee": "Arun",
+        "category": "Office Supplies",
+        "amount": 150000.0,
+        "decision": "REJECTED",
+        "explanation": "The expense was REJECTED because Policy or category violation detected.",
+        "timestamp": "2026-02-08 21:12:34"
+    },
+    {
+        "employee": "Arun",
+        "category": "Accommodation",
+        "amount": 15000.0,
+        "decision": "REJECTED",
+        "explanation": "The expense was REJECTED because Policy or category violation detected.",
+        "timestamp": "2026-02-08 21:13:58"
+    },
+    {
+        "employee": "Arun",
+        "category": "Food",
+        "amount": 800.0,
+        "decision": "APPROVED",
+        "explanation": "The expense was APPROVED because Expense is within auto-approval threshold.",
+        "timestamp": "2026-02-08 21:15:57"
+    },
+    {
+        "employee": "Arun",
+        "category": "Food",
+        "amount": 750.0,
+        "decision": "APPROVED",
+        "explanation": "The expense was APPROVED because Within auto-approval threshold.",
+        "timestamp": "2026-02-08 21:25:23"
+    },
+    {
+        "employee": "Arun",
+        "category": "Food",
+        "amount": 750.0,
+        "decision": "APPROVED",
+        "explanation": "The expense was APPROVED because Within auto-approval threshold.",
+        "timestamp": "2026-02-08 21:25:23"
+    },
+    {
+        "employee": "Arun",
+        "category": "Food",
+        "amount": 750.0,
+        "decision": "APPROVED",
+        "explanation": "The expense was APPROVED because Within auto-approval threshold.",
+        "timestamp": "2026-02-08 21:25:23"
+    },
+    {
+        "employee": "Arun",
+        "category": "Accommodation",
+        "amount": 15000.0,
+        "decision": "APPROVED",
+        "explanation": "The expense was APPROVED because Matches historical spending pattern.",
+        "timestamp": "2026-02-08 21:31:37"
+    },
+    {
+        "employee": "Raj",
+        "category": "Travel",
+        "amount": 1500.0,
+        "decision": "PENDING",
+        "explanation": "The expense was PENDING because New employee \u2013 manual review required.",
+        "timestamp": "2026-02-08 21:36:36"
+    },
+    {
+        "employee": "Arun",
+        "category": "Miscellaneous",
+        "amount": 25000.0,
+        "decision": "REJECTED",
+        "explanation": "The expense was REJECTED because Policy or budget violation.",
+        "timestamp": "2026-02-08 21:38:45"
+    }
+]
